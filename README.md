@@ -7,4 +7,5 @@
 
 ### 中等
 [959. 由斜杠划分区域](https://github.com/Archangel59/LeetCode/blob/main/959/959.md)  
-[1319. 连通网络的操作次数](https://github.com/Archangel59/LeetCode/blob/main/1319/1319.md)
+[1319. 连通网络的操作次数](https://github.com/Archangel59/LeetCode/blob/main/1319/1319.md)  
+[220. 存在重复元素 III](https://github.com/Archangel59/LeetCode/blob/main/220/220.md)
