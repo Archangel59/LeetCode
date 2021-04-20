@@ -39,5 +39,5 @@ public:
 
 int main () {
     Solution a;
-    cout << a.strStr("", "") << endl;
+    cout << a.strStr("hello", "ll") << endl;
 }

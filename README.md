@@ -1,5 +1,6 @@
 # LeetCode
-不定期更新做题题解
+不定期更新做题题解  
+补题ing（ QAQ
 
 ### 简单
 [674. 最长连续递增子序列](https://github.com/Archangel59/LeetCode/blob/main/674/674.md)  
@@ -7,6 +8,7 @@
 [724. 寻找数组的中心索引](https://github.com/Archangel59/LeetCode/blob/main/724/724.md)  
 [888. 公平的糖果棒交换](https://github.com/Archangel59/LeetCode/blob/main/888/888.md)  
 [28. 实现strStr()](https://github.com/Archangel59/LeetCode/blob/main/28/28.md)  
+[27. 移除元素](https://github.com/Archangel59/LeetCode/blob/main/27/27.md)  
 
 ### 中等
 [959. 由斜杠划分区域](https://github.com/Archangel59/LeetCode/blob/main/959/959.md)  
@@ -20,3 +22,6 @@
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
 [778. 水位上升的泳池中游泳](https://github.com/Archangel59/LeetCode/blob/main/7778/778.md)  
 [839. 相似字符串组](https://github.com/Archangel59/LeetCode/blob/main/839/839.md)  
+
+##### C++题数: 5 
+##### Golang题数: 15
