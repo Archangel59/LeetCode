@@ -17,6 +17,7 @@
 [1631. 最小体力消耗路径](https://github.com/Archangel59/LeetCode/blob/main/1361/1361.md)  
 [179. 最大数](https://github.com/Archangel59/LeetCode/blob/main/179/179.md)  
 [264. 丑数 II](https://github.com/Archangel59/LeetCode/blob/main/264/264.md)  
+[198. 打家劫舍](https://github.com/Archangel59/LeetCode/blob/main/198/198.md)  
 
 ### 困难
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
@@ -24,4 +25,4 @@
 [839. 相似字符串组](https://github.com/Archangel59/LeetCode/blob/main/839/839.md)  
 
 ##### C++题数: 5 
-##### Golang题数: 15
+##### Golang题数: 16
