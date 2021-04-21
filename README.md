@@ -2,6 +2,7 @@
 不定期更新做题题解  
 补题ing（ QAQ
 
+***
 ### 简单
 [674. 最长连续递增子序列](https://github.com/Archangel59/LeetCode/blob/main/674/674.md)  
 [1128. 等价多米诺骨牌对的数量](https://github.com/Archangel59/LeetCode/blob/main/1128/1128.md)  
@@ -18,6 +19,7 @@
 [179. 最大数](https://github.com/Archangel59/LeetCode/blob/main/179/179.md)  
 [264. 丑数 II](https://github.com/Archangel59/LeetCode/blob/main/264/264.md)  
 [198. 打家劫舍](https://github.com/Archangel59/LeetCode/blob/main/198/198.md)  
+[213. 打家劫舍II](https://github.com/Archangel59/LeetCode/blob/main/213/213.md)  
 
 ### 困难
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
@@ -25,4 +27,9 @@
 [839. 相似字符串组](https://github.com/Archangel59/LeetCode/blob/main/839/839.md)  
 
 ##### C++题数: 5 
-##### Golang题数: 16
+##### Golang题数: 17
+
+***
+
+###算法浅谈
+[RMQ](https://github.com/Archangel59/LeetCode/blob/main/algorithm/RMQ.md)
