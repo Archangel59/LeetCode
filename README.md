@@ -25,9 +25,10 @@
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
 [778. 水位上升的泳池中游泳](https://github.com/Archangel59/LeetCode/blob/main/7778/778.md)  
 [839. 相似字符串组](https://github.com/Archangel59/LeetCode/blob/main/839/839.md)  
+[1521. 找到最接近目标值的函数值](https://github.com/Archangel59/LeetCode/blob/main/1521/1521.md)  
 
 ##### C++题数: 5 
-##### Golang题数: 17
+##### Golang题数: 18
 
 ***
 
