@@ -33,4 +33,5 @@
 ***
 
 ###算法浅谈
-[RMQ](https://github.com/Archangel59/LeetCode/blob/main/algorithm/RMQ.md)
+[RMQ](https://github.com/Archangel59/LeetCode/blob/main/algorithm/RMQ/RMQ.md)  
+[主席树](https://github.com/Archangel59/LeetCode/blob/main/algorithm/htj-tree/hjt-tree.md)
