@@ -26,12 +26,14 @@
 [778. 水位上升的泳池中游泳](https://github.com/Archangel59/LeetCode/blob/main/7778/778.md)  
 [839. 相似字符串组](https://github.com/Archangel59/LeetCode/blob/main/839/839.md)  
 [1521. 找到最接近目标值的函数值](https://github.com/Archangel59/LeetCode/blob/main/1521/1521.md)  
+[315. 计算右侧小于当前元素的个数](https://github.com/Archangel59/LeetCode/blob/main/315/315.md)  
 
-##### C++题数: 5 
-##### Golang题数: 18
+##### C++题数: 6 
+##### Golang题数: 19
 
 ***
 
 ###算法浅谈
 [RMQ](https://github.com/Archangel59/LeetCode/blob/main/algorithm/RMQ/RMQ.md)  
+[线段树](https://github.com/Archangel59/LeetCode/blob/main/algorithm/segment-tree/segment-tree.md)  
 [主席树](https://github.com/Archangel59/LeetCode/blob/main/algorithm/htj-tree/hjt-tree.md)
