@@ -33,7 +33,7 @@
 
 ***
 
-###算法浅谈
+### 算法浅谈
 [RMQ](https://github.com/Archangel59/LeetCode/blob/main/algorithm/RMQ/RMQ.md)  
 [线段树](https://github.com/Archangel59/LeetCode/blob/main/algorithm/segment-tree/segment-tree.md)  
 [主席树](https://github.com/Archangel59/LeetCode/blob/main/algorithm/htj-tree/hjt-tree.md)
