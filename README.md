@@ -10,6 +10,7 @@
 [888. 公平的糖果棒交换](https://github.com/Archangel59/LeetCode/blob/main/888/888.md)  
 [28. 实现strStr()](https://github.com/Archangel59/LeetCode/blob/main/28/28.md)  
 [27. 移除元素](https://github.com/Archangel59/LeetCode/blob/main/27/27.md)  
+[1486. 数组异或操作](https://github.com/Archangel59/LeetCode/blob/main/1486/1486.md)  
 
 ### 中等
 [959. 由斜杠划分区域](https://github.com/Archangel59/LeetCode/blob/main/959/959.md)  
@@ -22,6 +23,7 @@
 [213. 打家劫舍II](https://github.com/Archangel59/LeetCode/blob/main/213/213.md)  
 [1011. 在D天内送达包裹的能力](https://github.com/Archangel59/LeetCode/blob/main/1011/1011.md)  
 [137. 只出现一次的数字II](https://github.com/Archangel59/LeetCode/blob/main/137/137.md)  
+[200. 岛屿数量](https://github.com/Archangel59/LeetCode/blob/main/200/200.md)  
 
 ### 困难
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
