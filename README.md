@@ -33,7 +33,7 @@
 [315. 计算右侧小于当前元素的个数](https://github.com/Archangel59/LeetCode/blob/main/315/315.md)  
 
 ##### C++题数: 6 
-##### Golang题数: 19
+##### Golang题数: 22
 
 ***
 
