@@ -24,6 +24,7 @@
 [1011. 在D天内送达包裹的能力](https://github.com/Archangel59/LeetCode/blob/main/1011/1011.md)  
 [137. 只出现一次的数字II](https://github.com/Archangel59/LeetCode/blob/main/137/137.md)  
 [200. 岛屿数量](https://github.com/Archangel59/LeetCode/blob/main/200/200.md)  
+[1734. 解码异或后的排列](https://github.com/Archangel59/LeetCode/blob/main/1734/1734.md)  
 
 ### 困难
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
@@ -34,7 +35,7 @@
 [1723. 完成所有工作的最短时间](https://github.com/Archangel59/LeetCode/blob/main/1723/1723.md)  
 
 ##### C++题数: 7 
-##### Golang题数: 23
+##### Golang题数: 24
 
 ***
 
