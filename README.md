@@ -25,6 +25,7 @@
 [137. 只出现一次的数字II](https://github.com/Archangel59/LeetCode/blob/main/137/137.md)  
 [200. 岛屿数量](https://github.com/Archangel59/LeetCode/blob/main/200/200.md)  
 [1734. 解码异或后的排列](https://github.com/Archangel59/LeetCode/blob/main/1734/1734.md)  
+[1310. 子数组异或查询](https://github.com/Archangel59/LeetCode/blob/main/1310/1310.md)  
 
 ### 困难
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
