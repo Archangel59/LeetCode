@@ -34,9 +34,10 @@
 [1521. 找到最接近目标值的函数值](https://github.com/Archangel59/LeetCode/blob/main/1521/1521.md)  
 [315. 计算右侧小于当前元素的个数](https://github.com/Archangel59/LeetCode/blob/main/315/315.md)  
 [1723. 完成所有工作的最短时间](https://github.com/Archangel59/LeetCode/blob/main/1723/1723.md)  
+[1269. 停在原地的方案数](https://github.com/Archangel59/LeetCode/blob/main/1296/1269.md)  
 
-##### C++题数: 7 
-##### Golang题数: 24
+##### C++题数: 8 
+##### Golang题数: 27
 
 ***
 
