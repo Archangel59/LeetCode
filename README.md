@@ -27,6 +27,7 @@
 [1734. 解码异或后的排列](https://github.com/Archangel59/LeetCode/blob/main/1734/1734.md)  
 [1310. 子数组异或查询](https://github.com/Archangel59/LeetCode/blob/main/1310/1310.md)  
 [993. 二叉树的堂兄弟节点](https://github.com/Archangel59/LeetCode/blob/main/993/993.md)  
+[1442. 形成两个异或相等数组的三元组数目](https://github.com/Archangel59/LeetCode/blob/main/1442/1442.md)  
 
 ### 困难
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
