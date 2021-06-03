@@ -29,6 +29,7 @@
 [993. 二叉树的堂兄弟节点](https://github.com/Archangel59/LeetCode/blob/main/993/993.md)  
 [1442. 形成两个异或相等数组的三元组数目](https://github.com/Archangel59/LeetCode/blob/main/1442/1442.md)  
 [523. 连续的子数组和](https://github.com/Archangel59/LeetCode/blob/main/523/523.md)  
+[525. 连续数组](https://github.com/Archangel59/LeetCode/blob/main/525/525.md)  
 
 ### 困难
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
@@ -39,8 +40,8 @@
 [1723. 完成所有工作的最短时间](https://github.com/Archangel59/LeetCode/blob/main/1723/1723.md)  
 [1269. 停在原地的方案数](https://github.com/Archangel59/LeetCode/blob/main/1296/1269.md)  
 
-##### C++题数: 8 
-##### Golang题数: 27
+##### C++题数: 13
+##### Golang题数: 31
 
 ***
 
