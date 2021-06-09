@@ -30,6 +30,8 @@
 [1442. 形成两个异或相等数组的三元组数目](https://github.com/Archangel59/LeetCode/blob/main/1442/1442.md)  
 [523. 连续的子数组和](https://github.com/Archangel59/LeetCode/blob/main/523/523.md)  
 [525. 连续数组](https://github.com/Archangel59/LeetCode/blob/main/525/525.md)  
+[494. 目标和](https://github.com/Archangel59/LeetCode/blob/main/494/494.md)  
+[1049. 最后一块石头的重量 II](https://github.com/Archangel59/LeetCode/blob/main/1049/1049.md)  
 
 ### 困难
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
@@ -41,7 +43,7 @@
 [1269. 停在原地的方案数](https://github.com/Archangel59/LeetCode/blob/main/1296/1269.md)  
 
 ##### C++题数: 13
-##### Golang题数: 31
+##### Golang题数: 32
 
 ***
 
