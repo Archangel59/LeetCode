@@ -11,6 +11,7 @@
 [28. 实现strStr()](https://github.com/Archangel59/LeetCode/blob/main/28/28.md)  
 [27. 移除元素](https://github.com/Archangel59/LeetCode/blob/main/27/27.md)  
 [1486. 数组异或操作](https://github.com/Archangel59/LeetCode/blob/main/1486/1486.md)  
+[852. 山脉数组的峰顶索引](https://github.com/Archangel59/LeetCode/blob/main/852/852.md)  
 
 ### 中等
 [959. 由斜杠划分区域](https://github.com/Archangel59/LeetCode/blob/main/959/959.md)  
@@ -44,7 +45,7 @@
 [1269. 停在原地的方案数](https://github.com/Archangel59/LeetCode/blob/main/1296/1269.md)  
 
 ##### C++题数: 13
-##### Golang题数: 34
+##### Golang题数: 35
 
 ***
 
