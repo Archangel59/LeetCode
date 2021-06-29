@@ -12,6 +12,8 @@
 [27. 移除元素](https://github.com/Archangel59/LeetCode/blob/main/27/27.md)  
 [1486. 数组异或操作](https://github.com/Archangel59/LeetCode/blob/main/1486/1486.md)  
 [852. 山脉数组的峰顶索引](https://github.com/Archangel59/LeetCode/blob/main/852/852.md)  
+[168. Excel表列名称](https://github.com/Archangel59/LeetCode/blob/main/168/168.md)  
+[455. 分发饼干](https://github.com/Archangel59/LeetCode/blob/main/455/455.md)  
 
 ### 中等
 [959. 由斜杠划分区域](https://github.com/Archangel59/LeetCode/blob/main/959/959.md)  
