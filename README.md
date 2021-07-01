@@ -14,6 +14,7 @@
 [852. 山脉数组的峰顶索引](https://github.com/Archangel59/LeetCode/blob/main/852/852.md)  
 [168. Excel表列名称](https://github.com/Archangel59/LeetCode/blob/main/168/168.md)  
 [455. 分发饼干](https://github.com/Archangel59/LeetCode/blob/main/455/455.md)  
+[LCP07. 传递信息](https://github.com/Archangel59/LeetCode/blob/main/LCP07/LCP07.md)  
 
 ### 中等
 [959. 由斜杠划分区域](https://github.com/Archangel59/LeetCode/blob/main/959/959.md)  
@@ -47,7 +48,7 @@
 [1723. 完成所有工作的最短时间](https://github.com/Archangel59/LeetCode/blob/main/1723/1723.md)  
 [1269. 停在原地的方案数](https://github.com/Archangel59/LeetCode/blob/main/1296/1269.md)  
 
-##### C++题数: 13
+##### C++题数: 14
 ##### Golang题数: 36
 
 ***
