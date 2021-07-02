@@ -38,6 +38,7 @@
 [1049. 最后一块石头的重量 II](https://github.com/Archangel59/LeetCode/blob/main/1049/1049.md)  
 [518. 零钱兑换 II](https://github.com/Archangel59/LeetCode/blob/main/518/518.md)  
 [877. 石子游戏](https://github.com/Archangel59/LeetCode/blob/main/877/877.md)  
+[1833. 雪糕的最大数量](https://github.com/Archangel59/LeetCode/blob/main/1833/1833.md)  
 
 ### 困难
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
