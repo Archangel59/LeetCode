@@ -41,6 +41,7 @@
 [877. 石子游戏](https://github.com/Archangel59/LeetCode/blob/main/877/877.md)  
 [1833. 雪糕的最大数量](https://github.com/Archangel59/LeetCode/blob/main/1833/1833.md)  
 [1846. 减小和重新排列数组后的最大元素](https://github.com/Archangel59/LeetCode/blob/main/1846/1846.md)  
+[1818. 绝对差值和](https://github.com/Archangel59/LeetCode/blob/main/1818/1818.md)  
 
 ### 困难
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
@@ -52,7 +53,7 @@
 [1269. 停在原地的方案数](https://github.com/Archangel59/LeetCode/blob/main/1269/1269.md)  
 
 ##### C++题数: 14
-##### Golang题数: 38
+##### Golang题数: 39
 
 ***
 
