@@ -51,9 +51,10 @@
 [315. 计算右侧小于当前元素的个数](https://github.com/Archangel59/LeetCode/blob/main/315/315.md)  
 [1723. 完成所有工作的最短时间](https://github.com/Archangel59/LeetCode/blob/main/1723/1723.md)  
 [1269. 停在原地的方案数](https://github.com/Archangel59/LeetCode/blob/main/1269/1269.md)  
+[68. 文本左右对齐](https://github.com/Archangel59/LeetCode/blob/main/68/68.md)  
 
 ##### C++题数: 14
-##### Golang题数: 39
+##### Golang题数: 40
 
 ***
 
