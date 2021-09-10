@@ -56,7 +56,7 @@
 [68. 文本左右对齐](https://github.com/Archangel59/LeetCode/blob/main/68/68.md)  
 
 ##### C++题数: 14
-##### Golang题数: 41
+##### Golang题数: 42
 
 ***
 
