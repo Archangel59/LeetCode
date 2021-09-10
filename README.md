@@ -42,6 +42,7 @@
 [1833. 雪糕的最大数量](https://github.com/Archangel59/LeetCode/blob/main/1833/1833.md)  
 [1846. 减小和重新排列数组后的最大元素](https://github.com/Archangel59/LeetCode/blob/main/1846/1846.md)  
 [1818. 绝对差值和](https://github.com/Archangel59/LeetCode/blob/main/1818/1818.md)  
+[1894. 找到需要补充粉笔的学生编号](https://github.com/Archangel59/LeetCode/blob/main/1894/1894.md)  
 
 ### 困难
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
@@ -54,7 +55,7 @@
 [68. 文本左右对齐](https://github.com/Archangel59/LeetCode/blob/main/68/68.md)  
 
 ##### C++题数: 14
-##### Golang题数: 40
+##### Golang题数: 41
 
 ***
 
