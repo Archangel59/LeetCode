@@ -60,7 +60,7 @@
 [68. 文本左右对齐](https://github.com/Archangel59/LeetCode/blob/main/68/68.md)  
 [600. 不含连续1的非负整数](https://github.com/Archangel59/LeetCode/blob/main/600/600.md)  
 
-##### C++题数: 16
+##### C++题数: 17
 ##### Golang题数: 46
 
 ***
