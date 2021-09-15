@@ -47,6 +47,7 @@
 [447. 回旋镖的数量](https://github.com/Archangel59/LeetCode/blob/main/447/447.md)  
 [678. 有效的括号字符串](https://github.com/Archangel59/LeetCode/blob/main/678/678.md)  
 [524. 通过删除字母匹配到字典里最长单词](https://github.com/Archangel59/LeetCode/blob/main/524/524.md)  
+[162. 寻找峰值](https://github.com/Archangel59/LeetCode/blob/main/162/162.md)  
 
 ### 困难
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
@@ -59,7 +60,7 @@
 [68. 文本左右对齐](https://github.com/Archangel59/LeetCode/blob/main/68/68.md)  
 
 ##### C++题数: 16
-##### Golang题数: 44
+##### Golang题数: 45
 
 ***
 
