@@ -58,9 +58,10 @@
 [1723. 完成所有工作的最短时间](https://github.com/Archangel59/LeetCode/blob/main/1723/1723.md)  
 [1269. 停在原地的方案数](https://github.com/Archangel59/LeetCode/blob/main/1269/1269.md)  
 [68. 文本左右对齐](https://github.com/Archangel59/LeetCode/blob/main/68/68.md)  
+[600. 不含连续1的非负整数](https://github.com/Archangel59/LeetCode/blob/main/600/600.md)  
 
 ##### C++题数: 16
-##### Golang题数: 45
+##### Golang题数: 46
 
 ***
 
