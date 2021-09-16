@@ -59,9 +59,10 @@
 [1269. 停在原地的方案数](https://github.com/Archangel59/LeetCode/blob/main/1269/1269.md)  
 [68. 文本左右对齐](https://github.com/Archangel59/LeetCode/blob/main/68/68.md)  
 [600. 不含连续1的非负整数](https://github.com/Archangel59/LeetCode/blob/main/600/600.md)  
+[212. 单词搜索 II](https://github.com/Archangel59/LeetCode/blob/main/212/212.md)  
 
 ##### C++题数: 17
-##### Golang题数: 46
+##### Golang题数: 47
 
 ***
 
