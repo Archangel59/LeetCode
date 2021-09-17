@@ -48,6 +48,7 @@
 [678. 有效的括号字符串](https://github.com/Archangel59/LeetCode/blob/main/678/678.md)  
 [524. 通过删除字母匹配到字典里最长单词](https://github.com/Archangel59/LeetCode/blob/main/524/524.md)  
 [162. 寻找峰值](https://github.com/Archangel59/LeetCode/blob/main/162/162.md)  
+[36. 有效的数独](https://github.com/Archangel59/LeetCode/blob/main/36/36.md)  
 
 ### 困难
 [1579. 保证图可完全遍历](https://github.com/Archangel59/LeetCode/blob/main/1579/1579.md)  
@@ -62,7 +63,7 @@
 [212. 单词搜索 II](https://github.com/Archangel59/LeetCode/blob/main/212/212.md)  
 
 ##### C++题数: 17
-##### Golang题数: 47
+##### Golang题数: 48
 
 ***
 
